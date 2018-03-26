@@ -1,6 +1,6 @@
 # Sentencing by Numbers
 
-Algorithms are increasingly being used to undermine human rights around the world. My proposed project will help communities fight against algorithmic tyranny. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens should have the right to know how governments design and implement algorithms in law enforcement and in other facets of life.(https://mozilla.github.io/open-leadership-training-series/articles/introduction-to-open-leadership/stating-your-project-vision/)? 
+Algorithms are increasingly being used to undermine human rights around the world. My proposed project will help communities fight against algorithmic tyranny. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens should have the right to know how governments design and implement algorithms in law enforcement and in other facets of life.
 
 First and foremost, Welcome! 🎉 Willkommen! 🎊 Bienvenue! 🎈🎈🎈
 
