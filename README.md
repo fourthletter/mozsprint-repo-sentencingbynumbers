@@ -16,11 +16,7 @@ We have the right to evaluate and audit these “black boxes” for biases. Algo
 
 The solution
 
-Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to:
-
-    increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data)
-    develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
-
+Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to: 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
 
 ## Contributing
 
