@@ -1,14 +1,15 @@
-# Contributing to [Project]
+# Contributing to Sentencing by Numbers
 
 Add a bit of welcome and cheer at the top
->Thank you for your interest in contributing to [Project] :tada:! 
+>Thank you for your interest in contributing to Sentencing by Numbers :tada:! 
 
 Restart your project vision here. Redundancy is your friend
->[Project] is ...
+>The public has the right to evaluate and audit these “black boxes” for biases. Algorithms act on human biases by replicating these biases, thereby reinforcing and even exacerbating existing inequalities. Data literacy is a path to better understanding the human decisions behind the curtain of the great and powerful AI. This project aims to 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
+
 
 Add some info on *why* people should read your contributor guidelines and *what* they are.
 
->This documents is a set of guidelines for contributing to [Project] on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
+>This documents is a set of guidelines for contributing to Sentencing by Numbers on GitHub. These are guidelines, not rules. This guide is meant to make it easy for you to get involved.
 
 If your guide is long, consider adding a table of contents.
 
