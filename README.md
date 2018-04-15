@@ -6,9 +6,9 @@ First and foremost, Welcome! Willkommen! Bienvenue!
 
 Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the Sentencing by Numbers project.
 
-Technology used by governments should be transparent and accountable to the public. Governments are using this technology to decide who to incarcerate, provide medical care, or give food. The underpinning of these decision-making tools are created from algorithms. These tools have recently been used to measure "risk" in the United States and assign "social scores" to individuals in China. 
+Governments are using technology to decide who to incarcerate, provide medical care, or give access to affordable housing. These decision-making tools are made from algorithms to measure "risk" in the United States and assign "social scores" to individuals in China. These tools are often used without public consent and udnermine civil liberties and data privacy. These tools should be transparent and accountable to the public. 
 
-We want to help the public look behind the curtain of the great and powerful AI. Dismantling these black boxes may help us evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Join us during the Global Sprint to help the public dismantle these black boxes.
+Please join us during the Global Sprint to dismantle these black boxes and help the public reveal what is behind the curtain of these machines. 
 
 ## Getting Started
 
