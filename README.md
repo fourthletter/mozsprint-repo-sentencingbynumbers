@@ -2,19 +2,19 @@
 
 First and foremost, Welcome! Willkommen! Bienvenue! 
 
+## Introduction
+
 Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the Sentencing by Numbers project.
 
-The Sentencing by Numbers project seeks to promote more transparent and accountable algorithmms, particularly decisionmaking tools used by governments on the public. Algorithms used by governments to decide who to imprison, provide medical care, give food are often carried out without individual consent and are seemingly arbitrary because the innerworkings of this technology are hidden from the public.Algorithms are used to measure "risk" in the United States and assign "social scores" to individuals in China. An Algorithm is a line of code (recipe) formulated to recoginze a pattern or trend from data or information (ingredients).
+Technology used by governments should be transparent and accountable to the public. Governments are using this technology to decide who to incarcerate, provide medical care, or give food. The underpinning of these decision-making tools are created from algorithms. These tools have recently been used to measure "risk" in the United States and assign "social scores" to individuals in China. 
 
-Algorithms are used by law enforcement in America for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. The public should have the right to evaluate and audit these black boxes. Join us during the Global Sprint to help the public dismantle these balck boxes.
-
-We want to help the public see behind the curtain of the great and powerful AI. Dismantling these black boxes may help us evaluate whether these tools are perpetuating racial, ethnic, and economic biases. 
+We want to help the public look behind the curtain of the great and powerful AI. Dismantling these black boxes may help us evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Join us during the Global Sprint to help the public dismantle these black boxes.
 
 ## Getting Started
 
 Background
 
-Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to: 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
+Algorithms are used by law enforcement in America for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. The public should have the right to evaluate and audit these black boxes. Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to: 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
 
 Example Projects
 
