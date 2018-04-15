@@ -1,20 +1,18 @@
 # Sentencing by Numbers
 
-Algorithms are increasingly being used to undermine human rights around the world. My proposed project will help communities fight against algorithmic tyranny. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens should have the right to know how governments design and implement algorithms in law enforcement and in other facets of life.
+First and foremost, Welcome! Willkommen! Bienvenue! 
 
-First and foremost, Welcome! 🎉 Willkommen! 🎊 Bienvenue! 🎈🎈🎈
+Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the Sentencing by Numbers project.
 
-Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the project.
+The Sentencing by Numbers project seeks to promote more transparent and accountable algorithmms, particularly decisionmaking tools used by governments on the public. Algorithms used by governments to decide who to imprison, provide medical care, give food are often carried out without individual consent and are seemingly arbitrary because the innerworkings of this technology are hidden from the public.Algorithms are used to measure "risk" in the United States and assign "social scores" to individuals in China. An Algorithm is a line of code (recipe) formulated to recoginze a pattern or trend from data or information (ingredients).
+
+Algorithms are used by law enforcement in America for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. The public should have the right to evaluate and audit these black boxes. Join us during the Global Sprint to help the public dismantle these balck boxes.
+
+We want to help the public see behind the curtain of the great and powerful AI. Dismantling these black boxes may help us evaluate whether these tools are perpetuating racial, ethnic, and economic biases. 
 
 ## Getting Started
 
-The problem
-
-Algorithms are increasingly being used by law enforcement in the United States for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. Algorithms have been the underpinning of technology like assigning risk scores to travelers at border crossings in the U.S. and evaluate good citizenship in China.
-
-We have the right to evaluate and audit these “black boxes” for biases. Algorithms act on human biases by replicating these biases, thereby reinforcing and even exacerbating existing inequalities. Data literacy is a path to better understanding the human decisions behind the curtain of the great and powerful AI.
-
-The solution
+Background
 
 Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to: 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
 
@@ -25,13 +23,13 @@ Example Projects
 2) Algorithm Game
 Scenarios are given and the participant decides if they agree or disagree with the case study. Example: An algorithm is used to determined whether to remove a child from their home. 
 
-3) An spreadhseet of over 100 algorithmic tools used in USA. Global Sprint participants could help contribute to asking questions about data or with visualization
+3) A webtool of over 100 algorithmic tools used in USA. Global Sprint participants could help contribute to asking questions about data or with visualization
 
 4) There is an open sourced algorithm used for predictive policing. Participants could examine it and use REAL data sets to analyze the source code
 
 ## Contributing
 
-Are you a computer scientist with a background on AI? Or are you may be a talented visual artist. Or someone who is good at reminding your team lunch is ready? We welcome your ideas and unique talent, and will not discount anyone's contribution.
+The Sentencing by Numbers project would like your input on how we could increase the transparency of algorithms designed and used by governments in the public sector. Are you a computer scientist with a background on AI? Or are you may be a talented visual artist. Or someone who is good at reminding your team lunch is ready? We welcome your ideas and unique talent, and will not discount anyone's contribution.
 
 ## Participation Guidelines
 
