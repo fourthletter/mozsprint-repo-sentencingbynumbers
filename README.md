@@ -6,15 +6,15 @@ First and foremost, Welcome! Willkommen! Bienvenue!
 
 Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the Sentencing by Numbers project.
 
-Governments are using technology to decide who to incarcerate, provide medical care, or give access to affordable housing. These decision-making tools are made from algorithms to measure "risk" in the United States and assign "social scores" to individuals in China. These tools are often used without public consent and udnermine civil liberties and data privacy. These tools should be transparent and accountable to the public. 
+Governments are using technology to decide prison sentences, provide medical care, or give access to affordable housing. These decision-making tools are made from algorithms to measure "risk" in the United States and assign "social scores" to individuals in China. Although governments are building smart cities that touch on so many facets of our daily lives, these tools are often implemented without user consent. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens have the right to know whether governments are churning data, embedded with biases, into a perpetual cyle of erroneous results. 
+
+This project will transform this data into human stories. We aim to strengthen the capacity of these community leaders by (1) deepening their knowledge of how technology is playing a role in police enforcement and prison sentencing, and (2) implementing hands-on technical training for community residents to create their own community centered solutions to protect civil rights. We hope this project will foster digital literacy and help the public understand the computational limitations of algorithmic tools.
 
 Please join us during the Global Sprint to dismantle these black boxes and help the public reveal what is behind the curtain of these machines. 
 
 ## Getting Started
 
-Background
 
-Algorithms are used by law enforcement in America for surveillance and censorship. These algorithms contribute to targeting and shutting down political opposition at rally events, civil liberty advocacy, or the general public. The public should have the right to evaluate and audit these black boxes. Algorithms often rely on data that are embedded with selection and confirmation biases, leading to erroneous results, outcomes, or predictions. We want to transform this data into human stories. This project aims to: 1) increase data literacy (how data is collected, where to find open data sources, understand the gaps within this data) and 2) develop tools for documenting and organizing against practices that may undermine civil liberties, human rights, and Internet privacy.
 
 Example Projects
 
@@ -30,6 +30,10 @@ Scenarios are given and the participant decides if they agree or disagree with t
 ## Contributing
 
 The Sentencing by Numbers project would like your input on how we could increase the transparency of algorithms designed and used by governments in the public sector. Are you a computer scientist with a background on AI? Or are you may be a talented visual artist. Or someone who is good at reminding your team lunch is ready? We welcome your ideas and unique talent, and will not discount anyone's contribution.
+
+Advance knowledge or experience with algorithms, machine learning, or statistics will contribute to this project by creating models or tests to evaluate public domain tools or reverse engineer proprietary tools. A critical part of understanding how algorithms make decisions is to review the dataset that “trains” the algorithm. Participants will play an essential role in helping our team analyze datasets consisting of public safety and incarceration statistics.
+
+Beginners intersted in using data visualization skills could also assist with developing infographics from data that are accessible to local criminal justice advocacy leaders, legal aid institutions and national networks focused on the intersection of big data and criminal justice in municipalities nationwide, and media.
 
 ## Participation Guidelines
 
