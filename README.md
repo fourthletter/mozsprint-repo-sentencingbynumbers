@@ -6,15 +6,13 @@ First and foremost, Welcome! Willkommen! Bienvenue!
 
 Thank you for visiting the Sentencing By Numbers project repository. This document (the README file) is a hub to give you some information about the Sentencing by Numbers project.
 
-Governments are using technology to decide prison sentences, provide medical care, or give access to affordable housing. These decision-making tools are made from algorithms to measure "risk" in the United States and assign "social scores" to individuals in China. Although governments are building smart cities that touch on so many facets of our daily lives, these tools are often implemented without user consent. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens have the right to know whether governments are churning data, embedded with biases, into a perpetual cyle of erroneous results. 
+Governments are using technology to decide prison sentences, provide medical care, or give access to affordable housing. These decision-making tools are made from algorithms to measure "risk" in the United States and assign "social scores" to individuals in China. Although this technology touches on many facets of our daily lives, these tools are often implemented without user consent. Communities should have a right to dismantle these “black boxes” and evaluate whether these tools are perpetuating racial, ethnic, and economic biases. Citizens have the right to know whether governments are churning data, embedded with biases, into a perpetual cyle of erroneous results. 
 
-This project will transform this data into human stories. We aim to strengthen the capacity of these community leaders by (1) deepening their knowledge of how technology is playing a role in police enforcement and prison sentencing, and (2) implementing hands-on technical training for community residents to create their own community centered solutions to protect civil rights. We hope this project will foster digital literacy and help the public understand the computational limitations of algorithmic tools.
+We aim to strengthen the public knowledge of how algorithmic technology may be undermining data privacy by (1) sharing information on specific tools and practices governments are currently using to surveil their citizens, and (2) developing hands-on workshops for residents to create their own community-centered solutions for protecting their personal data. We hope this project will foster digital literacy and help the public understand the computational limitations of algorithmic tools.
 
 Please join us during the Global Sprint to dismantle these black boxes and help the public reveal what is behind the curtain of these machines. 
 
 ## Getting Started
-
-
 
 Example Projects
 
