@@ -35,7 +35,7 @@ Beginners intersted in using data visualization skills could also assist with de
 
 ## Participation Guidelines
 
-This project adheres to [Mozilla's Code of Conduct] (https://www.mozilla.org/en-US/about/governance/policies/participation/) OR [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
+This project adheres to [Mozilla's Code of Conduct](https://www.mozilla.org/en-US/about/governance/policies/participation/) OR [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [EMAIL].
 
 ## MozSprint
 
